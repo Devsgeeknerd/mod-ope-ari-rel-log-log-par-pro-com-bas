@@ -8,7 +8,7 @@
 * [x] [Operadores Aritméticos — Prática.](https://github.com/Devsgeeknerd/cla-ope-ari-pra-ope-ari-rel-log-log-par-pro-com-bas)
 * [x] [Operadores Relacionais — Teoria.](https://github.com/Devsgeeknerd/cla-ope-rel-teo-ope-ari-rel-log-log-par-pro-com-bas)
 * [x] [Operadores Relacionais — Prática.](https://github.com/Devsgeeknerd/cla-ope-rel-pra-ope-ari-rel-log-log-par-pro-com-bas)
-* [ ] [Operadores Lógicos — Teoria.](https://github.com/Devsgeeknerd/cla-ope-log-teo-ope-ari-rel-log-log-par-pro-com-bas) &#128679;
+* [x] [Operadores Lógicos — Teoria.](https://github.com/Devsgeeknerd/cla-ope-log-teo-ope-ari-rel-log-log-par-pro-com-bas)
 * [ ] [Operadores Lógicos — Prática.](https://github.com/Devsgeeknerd/cla-ope-log-pra-ope-ari-rel-log-log-par-pro-com-bas) &#128679;
 
 <!-- Information -->
